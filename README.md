@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭I’m looking for help with job in the respective field.(Data analysis).<br>🤝 I’m looking for help with exploring new tools and technologies.<br>🌱I’m currently learning  Web Development.<br>💬 Ask me about any tech related stuff.<br>📫 How to reach me: daviddangol27@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: Big Man Utd Fan
+🔭I’m am working as a Research analyst in a ML and AI company <br>🤝 I’m looking for help with exploring new tools and technologies.<br>🌱I’m currently learning  AI agents .<br>💬 Ask me about any tech related stuff.<br>📫 How to reach me: daviddangol27@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: Big Man Utd Fan
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dangol-04957899/)
